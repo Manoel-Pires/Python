@@ -1,5 +1,0 @@
-print ('=======Desafio 02========')
-dia = input ('digite o dia: ')
-mes = input ('Digite o mês: ')
-ano = input ('digite o ano: ')
-print ('Voce nasceu no dia ', dia, ' de ', mes, ' de ', ano, '. Certo?')
